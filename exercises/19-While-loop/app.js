@@ -2,10 +2,10 @@
 //fix this function:
 function startCounting()
 {
-	var counter = 100;
-	while(counter <= 100)
+	var counter = -1;
+	while(counter <= 99)
 	{
-		counter --;
+		counter ++;
 		console.log(counter);
 	}
 	

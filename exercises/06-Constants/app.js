@@ -1,7 +1,11 @@
-const VERSION = '0.1';
+var VERSION = '1.2';
 
 //Change the code below: 
 
-VERSION = '0.9';
+  VERSION = '0.9';
+  
+    console.log(VERSION);
+  
 
-console.log(VERSION);
+
+
